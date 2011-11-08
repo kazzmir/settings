@@ -1,0 +1,36 @@
+!XTerm*color1: green3
+!XTerm*color2: green3
+!XTerm*color3: green3
+
+XTerm*color4: #245dff
+
+! XTerm*color5: green3
+! XTerm*color6: green3
+! XTerm*color7: green3
+! XTerm*color8: green3
+! XTerm*color9: green3
+
+! XTerm*color10: green3
+! XTerm*color11: green3
+! XTerm*color13: green3
+! XTerm*color14: green3
+! XTerm*color15: green3
+
+## blue
+XTerm*color12: #5858DB
+
+*VT100.Translations: #override Shift <Key>Up: scroll-back(1) \n\
+                               Shift <Key>Down: scroll-forw(1) \n\
+                               Shift <Key>Home: larger-vt-font() \n\
+                               Shift <Key>End: smaller-vt-font() \n\
+                               Meta <Key>K: scroll-back(1) \n\
+                               Meta <Key>J: scroll-forw(1) \n\
+                               Meta <Key>D: scroll-forw(10) \n\
+                               Meta <Key>U: scroll-back(10)
+
+!XTerm*faceName: Bitstream Vera Serif Mono
+XTerm*faceName: DejaVu Serif Mono
+! XTerm*faceName: STIX General
+XTerm*faceSize: 14
+
+!rxvt*font: -*-bitstream vera sans mono-*-*-*-14-*-*-*-*-*-*-*
