@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/jon/Downloads/SDL-1.3/android/SDL/src/video/android'
+let g:netrw_dirhist_2='/home/jon/svn/plt/collects/honu/core/lang'
+let g:netrw_dirhist_3='/home/jon/space/work/ps3dev/psl1ght/ppu'
+let g:netrw_dirhist_4='/home/jon/svn/paintown/tmp/mod/markus95/markus95'
+let g:netrw_dirhist_5='/home/jon/svn/paintown/www/pages'
