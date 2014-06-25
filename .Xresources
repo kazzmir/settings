@@ -26,7 +26,9 @@ XTerm*color12: #5858DB
                                Meta <Key>K: scroll-back(1) \n\
                                Meta <Key>J: scroll-forw(1) \n\
                                Meta <Key>D: scroll-forw(10) \n\
-                               Meta <Key>U: scroll-back(10)
+                               Meta <Key>U: scroll-back(10) \n\
+                               <Key>KP_9: scroll-back(10) \n\
+                               <Key>KP_3: scroll-forw(10)
 
 !XTerm*faceName: Bitstream Vera Serif Mono
 XTerm*faceName: DejaVu Serif Mono
